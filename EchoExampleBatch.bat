@@ -1,1 +1,2 @@
-echo Hello world!
+title Echo Example
+echo Hello, World!
